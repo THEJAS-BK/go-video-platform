@@ -1,3 +1,3 @@
-module bughunt-backend
+module backend
 
 go 1.27.0
